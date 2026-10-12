@@ -39,7 +39,7 @@ This project helped me strengthen my practical understanding of data analytics a
 
 ## 🖼️ Dashboard Preview
 
-Dashboard screenshots are available in this repository.
+![Restaurant Sales Dashboard](location.png)
 
 ## 👩‍💻 Author
 
