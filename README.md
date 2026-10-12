@@ -41,6 +41,8 @@ This project helped me strengthen my practical understanding of data analytics a
 
 ![Restaurant Sales Dashboard](Screenshot%202026-10-05%20221010.png)
 
+![Restaurant Sales Dashboard 2](Screenshot%202026-10-05%20221306.png)
+
 ## 👩‍💻 Author
 
 **Annpurna Mishra**
